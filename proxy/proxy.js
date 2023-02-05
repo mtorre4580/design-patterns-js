@@ -16,9 +16,8 @@ const payloadButtonEventProxy = new Proxy(payloadButtonEvent, {
       throw new Error(
         `Invalid type for the ${property} property, must be "${validator[property]}"`
       );
-    } else {
-      Reflect.set(target, property, value);
     }
+    return Reflect.set(target, property, value);
   },
 });
 
