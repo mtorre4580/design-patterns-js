@@ -1,6 +1,6 @@
 # Factory Pattern
 
-Dessign pattern that wraps a constructor for different types of objects and returns instances of the objects via a simple function
+- Pattern that wraps a constructor for different types of objects and returns instances of the objects via a simple function
 
 ## Example
 

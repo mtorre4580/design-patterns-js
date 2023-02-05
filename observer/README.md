@@ -1,6 +1,6 @@
 # Observer Pattern
 
-Design pattern that offers a subscription model in which objects subscribe to an event and get notified when the event occurs
+- Pattern that offers a subscription model in which objects subscribe to an event and get notified when the event occurs
 
 ## Example
 

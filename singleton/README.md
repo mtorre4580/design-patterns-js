@@ -1,6 +1,6 @@
 # Singleton Pattern
 
-- Design pattern that restricts the instantiation of a class and ensures that only one instance of the class exists
+- Pattern that restricts the instantiation of a class and ensures that only one instance of the class exists
 
 ## Example
 

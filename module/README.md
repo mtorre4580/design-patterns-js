@@ -1,6 +1,6 @@
 # Module Pattern
 
-- Design pattern used for improving the maintainability and reusability of the code by creating public and private access levels
+- Pattern used for improving the maintainability and reusability of the code by creating public and private access levels
 - Keeps the privacy of the state using closures
 
 ## Example
