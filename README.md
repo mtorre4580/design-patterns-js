@@ -1,6 +1,6 @@
-# Design Patterns
+# Design Patterns Javascript
 
-Design patterns in javascript
+Design patterns more used in JS
 
 - [Module](https://github.com/mtorre4580/patterns.js/tree/main/module)
 - [Singleton](https://github.com/mtorre4580/patterns.js/tree/main/singleton)
